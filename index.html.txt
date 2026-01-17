@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kenechukwu Anyaegbu - Portfolio</title>
+<style>
+body {
+  font-family: Arial;
+  margin: 40px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Kenechukwu Anyaegbu</h1>
+<p>Aspiring Data Analyst</p>
+
+<h2>About Me</h2>
+<p>I am currently learning data analysis.</p>
+
+<h2>Skills</h2>
+<ul>
+  <li>SQL</li>
+  <li>Data Analysis</li>
+  <li>Excel</li>
+</ul>
+
+<h2>Projects</h2>
+<ul>
+  <li>SQL Data Cleaning Project</li>
+  <li>Sales Data Analysis</li>
+</ul>
+
+<h2>Contact</h2>
+<p>Email: kenechukwuanyaegbukc@gmail.com</p>
+
+</body>
+</html>
